@@ -91,7 +91,7 @@ The platform uses **Bayesian Knowledge Tracing (BKT)** to estimate learner maste
 
 🏅 **China Delegation Honorable Mention**
 
-The project combines technology, AI, and problem-solving to transform an innovative concept into a practical solution.
+The project combines technology, and problem-solving to transform an innovative concept into a practical solution.
 
 > More details and technical documentation coming soon.
 
