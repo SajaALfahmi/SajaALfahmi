@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Saja Al-fahmi 👋
+# Hi, I'm Saja Alfahmi 👋
 
 ### AI Engineer • Full-Stack Developer • Building Intelligent Products
 
@@ -32,13 +32,13 @@ My interests include:
 - 📊 Data Science, Analysis & Visualization
 - 🧠 Adaptive Learning Systems
 - 🔐 AI Security & Cybersecurity
-- 💻 Full-Stack Development
+- 💻Full-Stack Development
 - 🗄️ Database Systems
 - 🚀 Intelligent Applications
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🧠 QUIZORA
 
@@ -69,7 +69,7 @@ The platform uses **Bayesian Knowledge Tracing (BKT)** to estimate learner maste
 - 🔐 Supabase authentication
 - 🗃️ PostgreSQL database
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 `React` `TypeScript` `Vite` `Tailwind CSS`
 
@@ -160,21 +160,21 @@ Worked with:
 
 ---
 
-# 🧰 Tech Stack
+#  Tech Stack
 
-### 💻 Programming Languages
+###  Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts" />
 </p>
 
-### 🎨 Frontend
+###  Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-### 🤖 AI / Data
+###  AI / Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
@@ -185,7 +185,7 @@ Worked with:
 
 `Bayesian Knowledge Tracing` `Power BI` `Excel`
 
-### 🗄️ Databases
+###  Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,supabase" />
@@ -193,7 +193,7 @@ Worked with:
 
 `SQL` `SQL Server` `PostgreSQL`
 
-### 🛠️ Tools
+###  Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
@@ -219,7 +219,7 @@ AI Security & Cybersecurity
 
 ---
 
-# 🎯 Areas of Interest
+#  Areas of Interest
 
 🤖 Artificial Intelligence
 🧠 Machine Learning
@@ -233,7 +233,7 @@ AI Security & Cybersecurity
 
 ---
 
-# 📫 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
