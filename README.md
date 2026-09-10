@@ -1,20 +1,19 @@
-<!-- Animated Header -->
-
 <div align="center">
 
 # Hi, I'm Saja Al-fahmi 👋
 
 ### AI Engineer • Full-Stack Developer • Building Intelligent Products
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Intelligent+Products;Always+Learning+%26+Creating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Intelligent+Products;Always+Learning+%26+Creating" alt="Typing SVG" />
 
 <br>
 
 <a href="https://github.com/SajaALfahmi">
-  <img src="https://img.shields.io/github/followers/SajaALfahmi?label=Followers&style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-SajaALfahmi-black?style=for-the-badge&logo=github" />
 </a>
-<a href="https://github.com/SajaALfahmi">
-  <img src="https://img.shields.io/github/stars/SajaALfahmi?label=Stars&style=for-the-badge&logo=github" />
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -27,14 +26,15 @@ I'm a **Computer Science graduate from Umm Al-Qura University** with a strong in
 
 I enjoy turning ideas into practical solutions by combining software development, AI, data, and problem-solving.
 
-Currently exploring and building projects around:
+My interests include:
 
 - 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Analysis & Visualization
+- 📊 Data Science, Analysis & Visualization
 - 🧠 Adaptive Learning Systems
 - 🔐 AI Security & Cybersecurity
 - 💻 Full-Stack Development
-- 🗄️ Databases & Data Systems
+- 🗄️ Database Systems
+- 🚀 Intelligent Applications
 
 ---
 
@@ -45,11 +45,11 @@ Currently exploring and building projects around:
 ### AI-Powered Adaptive Learning Platform
 
 <a href="https://quizora-five.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-QUIZORA-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Live%20Demo-QUIZORA-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/SajaALfahmi/QUIZORA">
-  <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
 </a>
 
 **QUIZORA** is an AI-powered adaptive learning platform designed for exam preparation and professional certifications.
@@ -71,7 +71,7 @@ The platform uses **Bayesian Knowledge Tracing (BKT)** to estimate learner maste
 
 ### 🛠️ Tech Stack
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `shadcn/ui`
+`React` `TypeScript` `Vite` `Tailwind CSS`
 
 `Supabase` `PostgreSQL` `OpenAI API`
 
@@ -81,19 +81,16 @@ The platform uses **Bayesian Knowledge Tracing (BKT)** to estimate learner maste
 
 ## 👁️ RAQEEB
 
-### Intelligent AI-Based Innovation Project
+### Innovative Technology Project
 
-**RAQEEB** is an AI-focused innovation project developed to address a real-world problem through intelligent technology.
+**RAQEEB** is an innovative technology project developed to address a real-world problem through a practical technological solution.
 
-🏆 **Geneva International Exhibition of Inventions 2026**
+### 🏆 Recognition
 
-🥈 **Silver Medal**
+- 🥈 **Silver Medal — Geneva International Exhibition of Inventions 2026**
+- 🏅 **China Delegation Honorable Mention**
 
-🏅 **China Delegation Honorable Mention**
-
-The project combines technology, and problem-solving to transform an innovative concept into a practical solution.
-
-> More details and technical documentation coming soon.
+The project reflects a combination of innovation, engineering, and problem-solving, with a focus on developing a practical solution to a real-world challenge.
 
 ---
 
@@ -102,7 +99,7 @@ The project combines technology, and problem-solving to transform an innovative 
 ### Naïve Bayes Machine Learning Project
 
 <a href="https://github.com/SajaALfahmi/Emergency-Call-Classification-Naive-Bayes">
-  <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
 </a>
 
 A machine learning project that classifies emergency calls into:
@@ -110,7 +107,7 @@ A machine learning project that classifies emergency calls into:
 - 🔴 High Priority
 - 🟢 Low Priority
 
-The project implements **Bernoulli Naïve Bayes from scratch**, including probability calculations and **Laplace smoothing**, followed by validation against Scikit-learn.
+The project implements **Bernoulli Naïve Bayes from scratch**, including probability calculations and **Laplace smoothing**, followed by validation and comparison with Scikit-learn.
 
 ### 🛠️ Technologies
 
@@ -122,8 +119,6 @@ The project implements **Bernoulli Naïve Bayes from scratch**, including probab
 
 # 🏆 Achievements
 
-<div align="center">
-
 | Achievement | Result |
 |---|---|
 | 🥇 Hajj Hackathon | **1st Place** |
@@ -131,20 +126,19 @@ The project implements **Bernoulli Naïve Bayes from scratch**, including probab
 | 🏅 China Delegation | **Honorable Mention** |
 | 🤖 ITU AI Readiness Hackathon | **Participant / Project Contributor** |
 
-</div>
-
 ---
 
 # 💼 Experience
 
 ### 🤖 Smart Methods
+
 **Full Stack Robotics Engineer — 420-Hour Training Program**
 
-Worked across multiple technical areas including:
+Gained hands-on experience across multiple technical areas:
 
 - Electronics & IoT
 - Web Development
-- NLP
+- Natural Language Processing
 - Robotics & AI
 - Mechanical Design
 - Full-Stack Robotic Engineering
@@ -152,52 +146,54 @@ Worked across multiple technical areas including:
 ---
 
 ### 📊 NaqabaSA
+
 **Hybrid Internship**
 
 Worked with:
 
 - SQL Server
-- Database systems
+- Database Systems
 - Power BI
-- Data visualization
-- Dashboard development
-- Data reporting
+- Data Visualization
+- Dashboard Development
+- Data Reporting
 
 ---
 
 # 🧰 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-### AI / Data
+### 🤖 AI / Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.icons8.com/color/48/power-bi.png" height="48" />
 </p>
 
 `Machine Learning` `Generative AI` `OpenAI API`
 
 `Bayesian Knowledge Tracing` `Power BI` `Excel`
 
-### Databases
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase" />
 </p>
 
 `SQL` `SQL Server` `PostgreSQL`
 
-### Tools
+### 🛠️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
@@ -205,27 +201,9 @@ Worked with:
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SajaALfahmi&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SajaALfahmi&layout=compact&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SajaALfahmi&hide_border=true" />
-
-</div>
-
----
-
 # 🌱 Currently Learning
+
+I'm currently expanding my knowledge and strengthening my skills in:
 
 ```text
 Artificial Intelligence
@@ -237,3 +215,46 @@ Data Science & Data Analysis
 Advanced Programming & Data Structures
         ↓
 AI Security & Cybersecurity
+```
+
+---
+
+# 🎯 Areas of Interest
+
+🤖 Artificial Intelligence
+🧠 Machine Learning
+📊 Data Science
+📈 Data Analysis & Visualization
+🔐 AI Security
+🛡️ Cybersecurity
+💻 Full-Stack Development
+🗄️ Database Systems
+🌐 Intelligent Applications
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/SajaALfahmi">
+  <img src="https://img.shields.io/badge/GitHub-SajaALfahmi-black?style=for-the-badge&logo=github" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+✨ Building. Learning. Innovating.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SajaALfahmi&style=flat-square" alt="Profile Views"/>
+
+</div>
