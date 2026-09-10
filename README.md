@@ -28,19 +28,19 @@ I enjoy turning ideas into practical solutions by combining software development
 
 My interests include:
 
-- 🤖 Artificial Intelligence & Machine Learning
-- 📊 Data Science, Analysis & Visualization
-- 🧠 Adaptive Learning Systems
-- 🔐 AI Security & Cybersecurity
-- 💻Full-Stack Development
-- 🗄️ Database Systems
-- 🚀 Intelligent Applications
+-  Artificial Intelligence & Machine Learning
+-  Data Science, Analysis & Visualization
+-  Adaptive Learning Systems
+-  AI Security & Cybersecurity
+-  Full-Stack Development
+-  Database Systems
+-  Intelligent Applications
 
 ---
 
 #  Featured Projects
 
-## 🧠 QUIZORA
+## QUIZORA
 
 ### AI-Powered Adaptive Learning Platform
 
@@ -58,16 +58,16 @@ The platform uses **Bayesian Knowledge Tracing (BKT)** to estimate learner maste
 
 ### ✨ Key Features
 
-- 🧠 Adaptive learning using **Bayesian Knowledge Tracing**
-- 🤖 AI-powered question generation
-- 💬 AI chatbot for learning support
-- 📚 Qudrat & Tahsili preparation
-- 🎓 Professional certification preparation
-- 📈 Learner progress tracking
-- 🔄 Dynamic question difficulty
-- 🌐 Arabic & English support
-- 🔐 Supabase authentication
-- 🗃️ PostgreSQL database
+-  Adaptive learning using **Bayesian Knowledge Tracing**
+-  AI-powered question generation
+-  AI chatbot for learning support
+-  Qudrat & Tahsili preparation
+-  Professional certification preparation
+-  Learner progress tracking
+-  Dynamic question difficulty
+-  Arabic & English support
+-  Supabase authentication
+-  PostgreSQL database
 
 ###  Tech Stack
 
@@ -79,13 +79,13 @@ The platform uses **Bayesian Knowledge Tracing (BKT)** to estimate learner maste
 
 ---
 
-## 👁️ RAQEEB
+## RAQEEB
 
 ### Innovative Technology Project
 
 **RAQEEB** is an innovative technology project developed to address a real-world problem through a practical technological solution.
 
-### 🏆 Recognition
+### Recognition
 
 - 🥈 **Silver Medal — Geneva International Exhibition of Inventions 2026**
 - 🏅 **China Delegation Honorable Mention**
@@ -94,7 +94,7 @@ The project reflects a combination of innovation, engineering, and problem-solvi
 
 ---
 
-## 🚨 Emergency Call Classification
+## Emergency Call Classification
 
 ### Naïve Bayes Machine Learning Project
 
@@ -117,7 +117,7 @@ The project implements **Bernoulli Naïve Bayes from scratch**, including probab
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
 | Achievement | Result |
 |---|---|
@@ -221,23 +221,23 @@ AI Security & Cybersecurity
 
 #  Areas of Interest
 
-🤖 Artificial Intelligence
+ Artificial Intelligence
 
-🧠 Machine Learning
+ Machine Learning
 
-📊 Data Science
+ Data Science
 
-📈 Data Analysis & Visualization
+ Data Analysis & Visualization
 
-🔐 AI Security
+ AI Security
 
-🛡️ Cybersecurity
+ Cybersecurity
 
-💻 Full-Stack Development
+ Full-Stack Development
 
-🗄️ Database Systems
+ Database Systems
 
-🌐 Intelligent Applications
+ Intelligent Applications
 
 ---
 
