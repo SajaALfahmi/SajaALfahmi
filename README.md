@@ -128,9 +128,9 @@ The project implements **Bernoulli Naïve Bayes from scratch**, including probab
 
 ---
 
-# 💼 Experience
+#  Experience
 
-### 🤖 Smart Methods
+###  Smart Methods
 
 **Full Stack Robotics Engineer — 420-Hour Training Program**
 
@@ -145,7 +145,7 @@ Gained hands-on experience across multiple technical areas:
 
 ---
 
-### 📊 NaqabaSA
+###  NaqabaSA
 
 **Hybrid Internship**
 
@@ -222,13 +222,21 @@ AI Security & Cybersecurity
 #  Areas of Interest
 
 🤖 Artificial Intelligence
+
 🧠 Machine Learning
+
 📊 Data Science
+
 📈 Data Analysis & Visualization
+
 🔐 AI Security
+
 🛡️ Cybersecurity
+
 💻 Full-Stack Development
+
 🗄️ Database Systems
+
 🌐 Intelligent Applications
 
 ---
