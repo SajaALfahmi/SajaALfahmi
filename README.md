@@ -249,7 +249,7 @@ AI Security & Cybersecurity
   <img src="https://img.shields.io/badge/GitHub-SajaALfahmi-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/saja-alfahmi-5b384530a">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
