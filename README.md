@@ -109,7 +109,7 @@ A machine learning project that classifies emergency calls into:
 
 The project implements **Bernoulli Naïve Bayes from scratch**, including probability calculations and **Laplace smoothing**, followed by validation and comparison with Scikit-learn.
 
-### 🛠️ Technologies
+### Technologies
 
 `Python` `Machine Learning` `Naïve Bayes`
 
