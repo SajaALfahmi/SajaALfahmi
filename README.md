@@ -20,7 +20,7 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 
 I'm a **Computer Science graduate from Umm Al-Qura University** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and intelligent software products**.
 
@@ -30,7 +30,6 @@ My interests include:
 
 -  Artificial Intelligence & Machine Learning
 -  Data Science, Analysis & Visualization
--  Adaptive Learning Systems
 -  AI Security & Cybersecurity
 -  Full-Stack Development
 -  Database Systems
@@ -124,7 +123,7 @@ The project implements **Bernoulli Naïve Bayes from scratch**, including probab
 | 🥇 Hajj Hackathon | **1st Place** |
 | 🥈 Geneva International Exhibition of Inventions 2026 | **Silver Medal** |
 | 🏅 China Delegation | **Honorable Mention** |
-| 🤖 ITU AI Readiness Hackathon | **Participant / Project Contributor** |
+|    ITU AI Readiness Hackathon | **Participant / Project Contributor** |
 
 ---
 
