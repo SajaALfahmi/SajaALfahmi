@@ -200,24 +200,6 @@ Worked with:
 
 ---
 
-# 🌱 Currently Learning
-
-I'm currently expanding my knowledge and strengthening my skills in:
-
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Data Science & Data Analysis
-        ↓
-Advanced Programming & Data Structures
-        ↓
-AI Security & Cybersecurity
-```
-
----
-
 #  Areas of Interest
 
  Artificial Intelligence
