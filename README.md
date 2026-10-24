@@ -144,7 +144,7 @@ Gained hands-on experience across multiple technical areas:
 
 ---
 
-###  NaqabaSA
+###  NaqabaKSA
 
 **Hybrid Internship**
 
