@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 # Hi, I'm Saja Alfahmi 👋
 
-### AI Engineer • Full-Stack Developer • Building Intelligent Products
+### AI Engineer • Software Engineer • Building Intelligent Products
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Building+Intelligent+Products;Always+Learning+%26+Creating" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Computer+Science+Graduate;AI+%26+Machine+Learning+Enthusiast;AI+Security+Enthusiast;Software+Engineer;Building+Intelligent+Products;Always+Learning+%26+Creating" alt="Typing SVG" />
 
 <br>
 
@@ -22,22 +22,26 @@
 
 ## About Me
 
-I'm a **Computer Science graduate from Umm Al-Qura University** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and intelligent software products**.
+I'm a **Computer Science graduate from Umm Al-Qura University** with a strong interest in **Artificial Intelligence, Machine Learning, AI Security, and intelligent software products**.
 
-I enjoy turning ideas into practical solutions by combining software development, AI, data, and problem-solving.
+Currently participating in **KAUST's Artificial Intelligence Program**, further developing my knowledge and practical skills in AI and emerging technologies.
+
+I enjoy turning ideas into practical solutions by combining software engineering, AI, and problem-solving.
 
 My interests include:
 
--  Artificial Intelligence & Machine Learning
--  Data Science, Analysis & Visualization
--  AI Security & Cybersecurity
--  Full-Stack Development
--  Database Systems
--  Intelligent Applications
+- Artificial Intelligence & Machine Learning
+- AI Engineering & Generative AI
+- AI Security & Cybersecurity
+- Large Language Models (LLMs) & RAG
+- Natural Language Processing (NLP)
+- Software Engineering
+- Full-Stack Development
+- Database Systems
 
 ---
 
-#  Featured Projects
+# Featured Projects
 
 ## QUIZORA
 
@@ -57,24 +61,44 @@ The platform uses **Bayesian Knowledge Tracing (BKT)** to estimate learner maste
 
 ### ✨ Key Features
 
--  Adaptive learning using **Bayesian Knowledge Tracing**
--  AI-powered question generation
--  AI chatbot for learning support
--  Qudrat & Tahsili preparation
--  Professional certification preparation
--  Learner progress tracking
--  Dynamic question difficulty
--  Arabic & English support
--  Supabase authentication
--  PostgreSQL database
+- Adaptive learning using **Bayesian Knowledge Tracing**
+- AI-powered question generation
+- AI chatbot for learning support
+- Qudrat & Tahsili preparation
+- Professional certification preparation
+- Learner progress tracking
+- Dynamic question difficulty
+- Arabic & English support
+- Supabase authentication
+- PostgreSQL database
 
-###  Tech Stack
+### Tech Stack
 
 `React` `TypeScript` `Vite` `Tailwind CSS`
 
 `Supabase` `PostgreSQL` `OpenAI API`
 
 `Machine Learning` `Bayesian Knowledge Tracing`
+
+---
+
+## Arabic Tweet Information Retrieval
+
+### Arabic Natural Language Processing & Information Retrieval
+
+<a href="https://github.com/SajaALFahmi/arabic-tweet-information-retrieval">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
+</a>
+
+An Arabic text information retrieval project focused on searching and retrieving relevant information from Arabic tweets.
+
+The project explores techniques for processing Arabic textual data and improving information retrieval through search and relevance matching.
+
+### Technologies
+
+`Python` `Natural Language Processing`
+
+`Information Retrieval` `Arabic Text Processing`
 
 ---
 
@@ -88,6 +112,7 @@ The platform uses **Bayesian Knowledge Tracing (BKT)** to estimate learner maste
 
 - 🥈 **Silver Medal — Geneva International Exhibition of Inventions 2026**
 - 🏅 **China Delegation Honorable Mention**
+- 🥇 **1st Place — Hajj Hackathon**
 
 The project reflects a combination of innovation, engineering, and problem-solving, with a focus on developing a practical solution to a real-world challenge.
 
@@ -97,7 +122,7 @@ The project reflects a combination of innovation, engineering, and problem-solvi
 
 ### Naïve Bayes Machine Learning Project
 
-<a href="https://github.com/SajaALfahmi/Emergency-Call-Classification-Naive-Bayes">
+<a href="https://github.com/SajaALFahmi/Emergency-Call-Classification-Naive-Bayes">
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
 </a>
 
@@ -123,13 +148,13 @@ The project implements **Bernoulli Naïve Bayes from scratch**, including probab
 | 🥇 Hajj Hackathon | **1st Place** |
 | 🥈 Geneva International Exhibition of Inventions 2026 | **Silver Medal** |
 | 🏅 China Delegation | **Honorable Mention** |
-|    ITU AI Readiness Hackathon | **Participant / Project Contributor** |
+| ITU AI Readiness Hackathon | **Participant / Project Contributor** |
 
 ---
 
-#  Experience
+# Experience
 
-###  Smart Methods
+### Smart Methods
 
 **Full Stack Robotics Engineer — 420-Hour Training Program**
 
@@ -144,94 +169,95 @@ Gained hands-on experience across multiple technical areas:
 
 ---
 
-###  NaqabaKSA
+### NaqabaSA
 
-**Hybrid Internship**
+**Software & Data Analysis Intern**
 
 Worked with:
 
+- C# & Object-Oriented Programming
 - SQL Server
 - Database Systems
+- Entity Framework
+- Angular & JavaScript
 - Power BI
 - Data Visualization
 - Dashboard Development
-- Data Reporting
 
 ---
 
-#  Tech Stack
+# Tech Stack
 
-###  Programming Languages
+### Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cs,js,ts" />
 </p>
 
-###  Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-###  AI / Data
+### AI / Machine Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.icons8.com/color/48/power-bi.png" height="48" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-`Machine Learning` `Generative AI` `OpenAI API`
+`Machine Learning` `Generative AI` `LLMs`
 
-`Bayesian Knowledge Tracing` `Power BI` `Excel`
+`OpenAI API` `RAG` `Natural Language Processing`
 
-###  Databases
+`Bayesian Knowledge Tracing` `Scikit-learn`
+
+`AI Security`
+
+### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,supabase" />
 </p>
 
-`SQL` `SQL Server` `PostgreSQL`
+`SQL` `SQL Server` `PostgreSQL` `pgvector`
 
-###  Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 </p>
 
----
-
-#  Areas of Interest
-
- Artificial Intelligence
-
- Machine Learning
-
- Data Science
-
- Data Analysis & Visualization
-
- AI Security
-
- Cybersecurity
-
- Full-Stack Development
-
- Database Systems
-
- Intelligent Applications
+`Power BI` `Excel`
 
 ---
 
-#  Let's Connect
+# Areas of Interest
+
+- Artificial Intelligence
+- AI Engineering
+- Machine Learning
+- Generative AI & LLMs
+- Natural Language Processing
+- AI Security
+- Cybersecurity
+- Software Engineering
+- Intelligent Applications
+- Database Systems
+
+---
+
+# Let's Connect
 
 <div align="center">
 
-<a href="https://github.com/SajaALfahmi">
-  <img src="https://img.shields.io/badge/GitHub-SajaALfahmi-black?style=for-the-badge&logo=github" />
+<a href="https://github.com/SajaALFahmi">
+<img src="https://img.shields.io/badge/GitHub-SajaALFahmi-black?style=for-the-badge&logo=github" />
 </a>
 
-<a href="www.linkedin.com/in/saja-alfahmi-5b384530a">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -244,6 +270,6 @@ Worked with:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SajaALfahmi&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=SajaALFahmi&style=flat-square" alt="Profile Views"/>
 
 </div>
