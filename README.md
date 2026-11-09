@@ -8,8 +8,8 @@
 
 <br>
 
-<a href="https://github.com/SajaALfahmi">
-<img src="https://img.shields.io/badge/GitHub-SajaALfahmi-black?style=for-the-badge&logo=github" />
+<a href="https://github.com/SajaALFahmi">
+<img src="https://img.shields.io/badge/GitHub-SajaALFahmi-black?style=for-the-badge&logo=github" />
 </a>
 
 <a href="YOUR_LINKEDIN_URL">
@@ -24,7 +24,7 @@
 
 I'm a **Computer Science graduate from Umm Al-Qura University** with a strong interest in **Artificial Intelligence, Machine Learning, AI Security, and intelligent software products**.
 
-Currently participating in **KAUST's Artificial Intelligence Program**, further developing my knowledge and practical skills in AI and emerging technologies.
+Currently studying Artificial Intelligence through **KAUST's AI Program**, further developing my knowledge and practical skills in AI and emerging technologies.
 
 I enjoy turning ideas into practical solutions by combining software engineering, AI, and problem-solving.
 
@@ -42,7 +42,7 @@ I enjoy turning ideas into practical solutions by combining software engineering
 - Software Engineering
 - Intelligent Applications
 - Database Systems
-  
+
 ---
 
 # Featured Projects
@@ -55,7 +55,7 @@ I enjoy turning ideas into practical solutions by combining software engineering
 <img src="https://img.shields.io/badge/Live%20Demo-QUIZORA-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://github.com/SajaALfahmi/QUIZORA">
+<a href="https://github.com/SajaALFahmi/QUIZORA">
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github" />
 </a>
 
@@ -96,7 +96,7 @@ The platform uses **Bayesian Knowledge Tracing (BKT)** to estimate learner maste
 
 An Arabic text information retrieval project focused on searching and retrieving relevant information from Arabic tweets.
 
-The project explores techniques for processing Arabic textual data and improving information retrieval through search and relevance matching.
+The project explores Arabic text processing and information retrieval techniques to support effective search and retrieval of relevant content.
 
 ### Technologies
 
@@ -110,15 +110,15 @@ The project explores techniques for processing Arabic textual data and improving
 
 ### Innovative Technology Project
 
-**RAQEEB** is an innovative technology project developed to address a real-world problem through a practical technological solution.
+**RAQEEB** is an innovative technology project developed to address a real-world challenge through an intelligent technological solution.
 
 ### Recognition
 
+- 🥇 **1st Place — Hajj Hackathon**
 - 🥈 **Silver Medal — Geneva International Exhibition of Inventions 2026**
 - 🏅 **China Delegation Honorable Mention**
-- 🥇 **1st Place — Hajj Hackathon**
 
-The project reflects a combination of innovation, engineering, and problem-solving, with a focus on developing a practical solution to a real-world challenge.
+The project reflects innovation, engineering, and problem-solving through the development of a practical technology solution.
 
 ---
 
@@ -160,7 +160,11 @@ The project implements **Bernoulli Naïve Bayes from scratch**, including probab
 
 ### Smart Methods
 
-**Full Stack Robotics Engineer — 420-Hour Training Program**
+**Full Stack Robotics Engineer — Training Program**
+
+*July 2025 – August 2025*
+
+**420-Hour Training Program**
 
 Gained hands-on experience across multiple technical areas:
 
@@ -177,7 +181,9 @@ Gained hands-on experience across multiple technical areas:
 
 **Software & Data Analysis Intern**
 
-Worked with:
+*March 2025 – June 2025*
+
+Gained practical experience working with:
 
 - C# & Object-Oriented Programming
 - SQL Server
