@@ -28,17 +28,21 @@ Currently participating in **KAUST's Artificial Intelligence Program**, further 
 
 I enjoy turning ideas into practical solutions by combining software engineering, AI, and problem-solving.
 
-My interests include:
+---
 
-- Artificial Intelligence & Machine Learning
-- AI Engineering & Generative AI
-- AI Security & Cybersecurity
-- Large Language Models (LLMs) & RAG
-- Natural Language Processing (NLP)
+# Areas of Interest
+
+- Artificial Intelligence
+- AI Engineering
+- Machine Learning
+- Generative AI & LLMs
+- Natural Language Processing
+- AI Security
+- Cybersecurity
 - Software Engineering
-- Full-Stack Development
+- Intelligent Applications
 - Database Systems
-
+  
 ---
 
 # Featured Projects
@@ -230,21 +234,6 @@ Worked with:
 </p>
 
 `Power BI` `Excel`
-
----
-
-# Areas of Interest
-
-- Artificial Intelligence
-- AI Engineering
-- Machine Learning
-- Generative AI & LLMs
-- Natural Language Processing
-- AI Security
-- Cybersecurity
-- Software Engineering
-- Intelligent Applications
-- Database Systems
 
 ---
 
